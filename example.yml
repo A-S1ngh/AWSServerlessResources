@@ -1,0 +1,12 @@
+author: &atot
+    name: Aristotle
+author: &ptot
+    name: Plato
+  
+quotes:
+    - "Life isn't about":
+        author: *atot
+    - "Whatever the mind":
+        author: *ptot
+    - "Strive not to be":
+        author: *atot 
